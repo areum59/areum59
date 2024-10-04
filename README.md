@@ -29,3 +29,4 @@
   <img src="https://img.shields.io/badge/Adobe Indesign-FF3366?style=flat&logo=adobeindesign&logoColor=white"" height="26" />&nbsp
   <img src="https://img.shields.io/badge/CorelDRAW-5FCF80?style=flat&logo=coreldraw&logoColor=white"" height="26" />&nbsp
 </div>
+  
