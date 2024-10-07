@@ -1,6 +1,18 @@
 <div align="center">  
   <img src="https://github.com/user-attachments/assets/35330a1d-f814-47e0-b939-b75b7a51f504" alt="">
-</div>
+</div><br><br>
+
+<div>
+  <h1>👋 Hi there!</h1>
+<p>
+  감각적인 디자인과 과감한 인터페이스, 그리고 의미 있는 상호작용을 통해<br>
+  디자인과 프론트엔드 역량을 극대화하여 세련된 웹 경험을 만들어갑니다.
+</p>
+<p>
+  With a keen sense of design, bold interfaces,and meaningful interactions,<br>
+  I maximize both design and front-end capabilities to craft refined web experiences.
+</p>
+</div><br><br>
 
 <h1>💪 Skills</h1>
 <div>  
